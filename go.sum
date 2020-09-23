@@ -1,0 +1,5 @@
+github.com/ayush251196/xxmaths v1.1.0 h1:4TIi6ar6M90TX1uVEtdTaz1bqWxP90kmxJ99U7ihtJU=
+github.com/ayush251196/xxmaths v1.1.0/go.mod h1:pugER9jNvhlFK8UvP2ArJ5vA5YHgNDoZlY6aiDmgbco=
+golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+rsc.io/quote v1.5.2/go.mod h1:LzX7hefJvL54yjefDEDHNONDjII0t9xZLPXsUe+TKr0=
+rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
